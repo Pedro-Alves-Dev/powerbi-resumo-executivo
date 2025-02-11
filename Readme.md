@@ -6,7 +6,7 @@
 
 <h3>➡️Imagem de ilustração💻</h3>
 <h1>
-    <img src="Imagens/Relatório.png"/>
+    <img src="Imagens/Relatório.PNG"/>
 </h1>
 
 <h2 align="center">📋Mais detalhes</h2>
